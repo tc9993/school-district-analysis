@@ -50,9 +50,10 @@ Thomas High Schools rank did not change once removing the ninth grade scores (an
   The $630-644 spending range bin was negligibly affected by the removal of the Thomas ninth grade scores.  While the scores themselves were completely unaffected, the percentage of students passing declined by <.1% for Math, Reading, and Overall Passing percentages.
   <br><br>
   <li><b>Scores by school size</b></li>
-  
+  Thomas fell into the Medium (1000-2000) bin regarding school sizes.  This bin was completely unaffected by the removal of ninth grade scores.  Medium schools maintained their Average Math and Reading Scores, to the nearest hundreth, as well as the % Passing Math, Reading, and Overall percentages, to the nearest whole number.
   <br><br>
   <li><b>Scores by school type</b></li>
+  Thomas High School is a charter school.  When comparing the performance of Charter Schools before and after revising the Thomas data, we find that, again, no changes to the scores were evident.
   
   </ul>
   </li>
