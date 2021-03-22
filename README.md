@@ -27,7 +27,7 @@ The overall analysis was conducted twice.  The second analysis was required as a
   <img src ="https://github.com/tc9993/school-district-analysis/blob/main/Resources/revised_district_summary.png?raw=true" alt="Revised District Summary">
   <b>Exhibit 1.2:</b> Revised District Summary
   </p>
-  <br><br>
+  <br>
 <li><b>How is the school summary affected?</b></li>
 The school summary was only affected within the Thomas High School row.  Removing the ninth grade scores had a negligible impact on the schools overall scores as the 10-12th grade scores alone were consistent with the original summary.  Please see Exhibit 1.3 and 1.4 to see minute changes to raw scores.
   <p align="center">
@@ -37,10 +37,9 @@ The school summary was only affected within the Thomas High School row.  Removin
   <img src ="https://github.com/tc9993/school-district-analysis/blob/main/Resources/revised_school_summary.png?raw=true" alt="Revised Thomas Summary">
   <b>Exhibit 1.4:</b> Revised Thomas Summary
   </p>
-<br><br>
+<br>
 <li><b>How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?</b></li>
 Thomas High Schools rank did not change once removing the ninth grade scores (and ninth grade population from the schools population count).  The 10-12th grades at Thomas still passed both reading and math at a 90% rate, preserving their 2nd place rank among all schools' % Overall Passing.
-
 <br><br>
 <li><b>How does replacing the ninth-grade scores affect the following:
   <ul>
