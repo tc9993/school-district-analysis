@@ -19,7 +19,7 @@ The overall analysis was conducted twice.  The second analysis was required as a
 
 <ul>
   <li><b>How is the district summary affected?</b></li>
-  Overall, the district summary was not vastly affected.  Evidenced by Exhibits 1.1 and 1.2 (School District Summaries before and after removing Thomas Ninth Grade Scores, respectively), the Average Math Score went down from 79.0 to 78.9.  
+  Overall, the district summary was not vastly affected by removing the Thomas ninth grade scores.  Evidenced by Exhibits 1.1 and 1.2 (School District Summaries before and after removing Thomas Ninth Grade Scores, respectively), the Average Math Score went down from 79.0 to 78.9, % Passing Math dropped .2%, and % Passing Reading went up by .1%.  
   <p align="center">
   <img src="https://github.com/tc9993/school-district-analysis/blob/main/Resources/original_district_summary.png?raw=true" alt="Original District Summary">
   <b>Exhibit 1.1:</b> Original District Summary
@@ -29,6 +29,7 @@ The overall analysis was conducted twice.  The second analysis was required as a
   </p>
   <br><br>
 <li><b>How is the school summary affected?</b></li>
+
 
 <br><br>
 <li><b>How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?</b></li>
