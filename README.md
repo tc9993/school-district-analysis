@@ -39,12 +39,13 @@ The school summary was only affected within the Thomas High School row.  Removin
   </p>
 <br><br>
 <li><b>How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?</b></li>
+Thomas High Schools rank did not change once removing the ninth grade scores (and ninth grade population from the schools population count).  The 10-12th grades at Thomas still passed both reading and math at a 90% rate, preserving their 2nd place rank among all schools' % Overall Passing.
 
 <br><br>
 <li><b>How does replacing the ninth-grade scores affect the following:
   <ul>
   <li><b>Math and reading scores by grade</b></li>
-  
+  The ninth grade averages for both reading and math were affected by replacing the Thomas ninth grade scores negatively.  The average 9th Grade Math Score for the district dropped by .2 points overall, while the average 9th Grade Reading Score dropped by .1 point overall.  This tell us that the Thomas High School ninth grade scores are above average as a whole.  
   <br><br>
   <li><b>Scores by school spending</b></li>
   
